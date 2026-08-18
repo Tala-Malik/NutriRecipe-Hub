@@ -5,8 +5,7 @@ allow users organize their recipes, track daily meals, monitor their calories an
 #Description
 NutriRecipe Hub is a simple, responsive, web application designed to make meal and nutrition tracking easier. Users can browse and search for recipes, explore ingredients, and nutritional information, then add the meals to their daily food log. The app provides a clear overview of consumed and remaining calories, along with protein, carbohydrates, and fats, helping users stay aware of their daily nutritional intake. While supporting both languages English and Arabic.
 
-#Technologies Used
-
+## Technologies Used
 Base44
 
 #How to run the Project?
