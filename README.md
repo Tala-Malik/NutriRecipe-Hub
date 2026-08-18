@@ -6,9 +6,11 @@ allow users organize their recipes, track daily meals, monitor their calories an
 NutriRecipe Hub is a simple, responsive, web application designed to make meal and nutrition tracking easier. Users can browse and search for recipes, explore ingredients, and nutritional information, then add the meals to their daily food log. The app provides a clear overview of consumed and remaining calories, along with protein, carbohydrates, and fats, helping users stay aware of their daily nutritional intake. While supporting both languages English and Arabic.
 
 #Technologies Used
+
 Base44
 
 #How to run the Project?
+
 The application can be accessed directly through the deployed website:
 NutriRecipe Hub: https://nutri-recipe-hub-copy-41116b54.base44.app
 
@@ -34,17 +36,19 @@ NutriRecipe Hub: https://nutri-recipe-hub-copy-41116b54.base44.app
 .Responsive design for different screen sizes    
 
 #Development Program 
+
 Generative Programming (Vibe Coding) organized by SDAIA
 
-#Team members 
-Tala Aljumaie
-Alghalyah Almuneef
-Leen Alhammad
-Sarah Alfadhel
-Alhanouf Aldakelallsh
-Juman Abahussain
-Ahmed Alshehri
-Saad Almutiri 
+#Team members
+
+Tala Aljumaie. 
+Alghalyah Almuneef. 
+Leen Alhammad. 
+Sarah Alfadhel. 
+Alhanouf Aldakelallsh. 
+Juman Abahussain. 
+Ahmed Alshehri. 
+Saad Almutiri. 
 
 
 https://github.com/SDAIAAcademy
